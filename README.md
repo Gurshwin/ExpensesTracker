@@ -1,29 +1,27 @@
 # ExpensesTracker
+# 💰 Expense Tracker
 
-## 📸 Screenshots
+A simple and clean expense tracker app built with **HTML**, **CSS**, and **JavaScript**. It helps you track income and expenses, calculate your balance, and persist data using **Local Storage**.
 
-_Add screenshots of the app here once deployed_
+## 🖼️ Demo
 
-## ⚙️ How It Works
+![App Screenshot](./screenshot.png) <!-- Replace or add actual screenshot -->
 
-1. User submits a transaction (income/expense)
-2. The transaction is added to the list with a unique `id`
-3. Totals are calculated using array methods:
-   - `reduce()` to calculate balance
-   - `filter()` for income & expense breakdown
-4. All data is saved to **Local Storage**
-5. Transactions persist even after refresh
+## 🚀 Features
 
-## 🧠 Key Concepts Used
+- ✅ Add income or expense transactions  
+- ✅ View current balance, income, and total expenses  
+- ✅ Delete individual transactions  
+- ✅ Data saved to **Local Storage**  
+- ✅ Responsive design for all devices  
 
-- DOM Manipulation  
-- Array methods: `map`, `filter`, `reduce`  
-- Template literals  
-- `localStorage` for persistence  
-- Form handling & event listeners  
+## 🔧 Built With
 
-## 📚 How to Use
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Local Storage API  
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+## 📂 Project Structure
+
+
